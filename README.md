@@ -1,7 +1,30 @@
 # Datacamp Projects
 The projects i worked on while learning data science courses in datacamp.
 
-My Datacamp profile
-https://www.datacamp.com/profile/nrabbi
+#### Project 1_1: Analyzing TV Data
 
-Visit https://www.datacamp.com/ for more information.
+Use data manipulation and visualization to explore the hit sitcom The Office!
+
+#### Project 1_2: V, Halftime Shows, and the Big Game
+
+Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.
+
+#### Project 2: The Android App Market on Google Play
+
+Load, clean, and visualize scraped Google Play Store data to understand the Android app market.
+
+#### Project 3: The GitHub History of the Scala Language
+
+Find the true Scala experts by exploring its development history in Git and GitHub.
+
+#### Project 4: Dr. Semmelweis and the Discovery of Handwashing
+
+Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing.
+
+#### Project 5: Predicting Credit Card Approvals
+
+Build a machine learning model to predict if a credit card application will get approved.
+
+#### Project 6: Exploring the Evolution of Lego
+
+In this project we will explore a database of every LEGO set ever built.
