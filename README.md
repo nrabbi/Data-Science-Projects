@@ -5,7 +5,7 @@ The projects i worked on while learning data science courses in datacamp.
 
 Use data manipulation and visualization to explore the hit sitcom The Office!
 
-#### Project 1_2: V, Halftime Shows, and the Big Game (Python)
+#### Project 1_2: TV, Halftime Shows, and the Big Game (Python)
 
 Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.
 
