@@ -1,5 +1,5 @@
 ## Python Projects
-| ID  | Project | Desciption|  
+| ID  | Project | Description |  
 | --------------- | --------------- | --------------- |
 | 1_1 | Analyzing TV Data | Use data manipulation and visualization to explore the hit sitcom The Office! | 
 | 1_2 | TV, Halftime Shows, and the Big Game |  Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. | 
@@ -10,7 +10,7 @@
 | 6 | Exploring the Evolution of Lego | In this project we will explore a database of every LEGO set ever built.  |
 
 ## SQL Projects
-| ID  | Project | Desciption|  
+| ID  | Project | Description |  
 | --------------- | --------------- | --------------- |
 | 7 | Analyze International Debt Statistics | Write SQL queries to answer interesting questions about international debt using data from The World Bank.  |
 | 8 | What and Where Are the World's Oldest Businesses? | Use SQL data manipulation and joins to discover the oldest businesses around the world.  |
