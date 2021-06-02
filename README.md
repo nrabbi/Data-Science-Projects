@@ -28,3 +28,7 @@ Build a machine learning model to predict if a credit card application will get 
 #### Project 6: Exploring the Evolution of Lego (Python)
 
 In this project we will explore a database of every LEGO set ever built.
+
+#### Project 7: Analyze International Debt Statistics (SQL)
+
+Write SQL queries to answer interesting questions about international debt using data from The World Bank.
