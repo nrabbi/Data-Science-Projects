@@ -8,6 +8,7 @@
 | 4 | Dr. Semmelweis and the Discovery of Handwashing | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing.  |
 | 5 | Predicting Credit Card Approvals | Build a machine learning model to predict if a credit card application will get approved. |
 | 6 | Exploring the Evolution of Lego | In this project we will explore a database of every LEGO set ever built.  |
+| 9 | Most Important Characters in The Great Gatsby | Use web scraping and NLP to find the most frequent words in one of the classic literature: The Great Gatsby by  F. Scott Fitzgerald.  |
 
 ## SQL Projects
 | ID  | Title  | Project Description |  
