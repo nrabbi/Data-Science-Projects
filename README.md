@@ -10,6 +10,8 @@
 | 1_8 | Exploring the Evolution of Lego | In this project we will explore a database of every LEGO set ever built.  |
 | 1_9 | Most Important Characters in The Great Gatsby | Use web scraping and NLP to find the most frequent words in one of the classic literature: The Great Gatsby by  F. Scott Fitzgerald.  |
 | 2_1 | Game of Thrones TV Show Network Analysis | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
+| 2_2 | Risk and Returns: The Sharpe Ratio | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
+
 
 ## SQL Projects
 | ID  | Title  | Project Description |  
